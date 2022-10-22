@@ -1,0 +1,23 @@
+[Info]
+WallpaperType=video
+VideoFileName=Red Planet.mp4
+
+[DateTime]
+Visible=true
+Parallax=true
+MarginTop=0
+MarginRight=0
+MarginLeft=15
+MarginBottom=25
+RotationX=0
+RotationY=0
+RotationZ=0
+Position=center
+Alignment=center
+AlwaysOnTop=true
+Color=#a51d2d
+Alpha=255
+ShadowColor=#613583
+ShadowAlpha=255
+TimeFont=Lato Light 30
+DateFont=Lato Light 20
